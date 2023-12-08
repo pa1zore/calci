@@ -12,5 +12,8 @@ public class calci {
         //performing addition here
         int sum=num1+num2;
         System.out.println("addition of two numbers is "+sum);
+        //performing substraction
+        int sub=num1-num2;
+        System.out.println("substraction of two numbers is "sub);
     }
 }
